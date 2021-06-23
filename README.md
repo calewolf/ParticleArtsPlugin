@@ -11,6 +11,7 @@ Route these output MIDI signals to any MIDI software instrument for a cool rando
 ## Some tips:
 
 - I've found that adding a delay effect on top of any synth patch creates cool sounds.
+- MIDI output signals are very short. If your DAW has it, use a MIDI note length effect to widen them a bit.
 - For best results, stick to a small amount of consonant notes (try only 1, 2, 5). Less is more!
 - The "Add Ball" button randomly adds a note in a subset of C's, D's, and G's.
 - I've added a velocity slider to control overall particle speed.
