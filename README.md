@@ -1,6 +1,6 @@
 # ParticleArtsPlugin 🎵
 
-ParticleArtsPlugin is a VST3 plugin built with [**JUCE**](https://juce.com) that provides an interesting new way to randomize MIDI signals in music production: *particle physics!*
+ParticleArtsPlugin is a VST3 plugin built with [**JUCE**](https://juce.com) that allows you to generate semi-random MIDI signals with particle physics.
 
 ![demo img](demo.png)
 
